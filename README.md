@@ -1,6 +1,6 @@
 # MathRock Diffusion
 
-<a href="https://colab.research.google.com/github/ethansmith2000/MathRock-Diffusion/blob/main/ES2000_MathRock_Diffusion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+<a href="https://colab.research.google.com/github/ferrodove/MathRock-Diffusion/blob/main/ES2000_MathRock_Diffusion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 Documentation of features: https://docs.google.com/document/d/1C5wt-q6i1JVb2zGsTCGcZev4NayFKC0p-ejbdZx4AkM/edit?usp=sharing
 
